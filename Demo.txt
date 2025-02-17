@@ -1,0 +1,7 @@
+git init 
+git status 
+git add " Your file name" 
+git commit -m "Coomment"
+git log 
+git remote -v
+git push -u origin main
